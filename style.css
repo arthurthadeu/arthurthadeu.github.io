@@ -185,7 +185,7 @@ pre {
 /*===== Titles =====*/
 .site-title {
     font-family: 'Righteous',helvetica,sans-serif;
-    font-size: 50px;
+    font-size: 26px;
     color: #90D4C5;
     line-height: 1.5em;
     position: relative;
@@ -598,7 +598,7 @@ pre {
 }
 .thumbnail-description {
     color: #2c2c2c;
-    font-family: 'quicksand',arial,sans-serif;
+    font-family: 'quicksand', Arial, sans-serif;
     font-size: 16px;
     margin: 0 auto;
     max-height: 5em;
